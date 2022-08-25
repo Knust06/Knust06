@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi people, my name is Lucas Knust, as know as just Knust
+### Hi people, my name is Lucas Knust, as know as just Knust
 
 - I am Student of computer science (sixth period), lover of games and programming. 
 - In 2021 I learn mainly python related, C and C#. 
