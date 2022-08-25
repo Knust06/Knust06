@@ -5,7 +5,6 @@
 - In 2021 I learn mainly python related, C and C#. 
 - In 2022 I am learning about HTML, CSS and JavaScript for web development. Want to talk to me ? Send me an 
 - E-mail: lucasknust0605@gmail.com
-- My Reddit: https://www.reddit.com/user/EuSouKnust
 - My Discord: Knust#8758
 
 
