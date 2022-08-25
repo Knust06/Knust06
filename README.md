@@ -6,3 +6,7 @@
 - In 2022 I am learning about HTML, CSS and JavaScript for web development. Want to talk to me ? Send me an 
 - E-mail: lucasknust0605@gmail.com
 - My Reddit: https://www.reddit.com/user/EuSouKnust
+
+
+
+https://github-readme-stats.vercel.app/api?username=knust06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
