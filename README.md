@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knust06&layout=compact&theme=radical)
 
 ## Featured Projects / Projetos em Destaque
-- [TechChallengeFIAP](https://github.com/Knust06/TechChallengeFIAP1) - Technical challenge of the Machine Learning Engineering postgraduate course in the first phase, creating an API to retrieve data from an Embrapa website / Desafio técnico da pós-graduação de Machine Learning Engineering da primeira fase, criando uma API para pegar dados de um Site da Embrapa
+- [TechChallengeFIAP](https://github.com/Knust06/TechChalengeFIAP1) - Technical challenge of the Machine Learning Engineering postgraduate course in the first phase, creating an API to retrieve data from an Embrapa website / Desafio técnico da pós-graduação de Machine Learning Engineering da primeira fase, criando uma API para pegar dados de um Site da Embrapa
 - [My Python Studies](https://github.com/Knust06/Python) - A compilation of my studies and experiments with Python, showing my continuous progress in the language. / Uma compilação dos meus estudos e experimentos com Python, mostrando meu progresso contínuo na linguagem.
 
 ---
