@@ -1,28 +1,133 @@
-# Hello, world! 👋 I'm Lucas Knust - Passionate about AI and Development
+# Hi, I'm Lucas Knust 👋
 
-## About Me / Sobre mim
-- 🎓 I am a **Computer Science Graduate** currently specializing in **Machine Learning Engineering** at FIAP. / Sou **Graduado em Ciência da Computação** e atualmente faço uma especialização em **Engenharia de Aprendizado de Máquina** na FIAP.
-- 🕹️ **Lover of games and coding**, always seeking the intersection between technology and creativity. / **Amante de jogos e programação**, sempre buscando a interseção entre tecnologia e criatividade.
-- 📊 In 2021, I dived deep into **Python and C#**, enhancing my backend skills. / Em 2021, mergulhei fundo no **Python e C#**, fortalecendo minhas habilidades de back-end.
-- 💻 In 2022, I expanded my knowledge to web development with **HTML, CSS, and JavaScript** and ventured into app development with a **Swift** course. / Em 2022, expandi meu conhecimento para a web com **HTML, CSS e JavaScript** e também desbravei o desenvolvimento de apps com um curso de **Swift**.
-- 🔍 In 2023, I focused on **QA for BRQ**, using mainly C# for automated tests. / Em 2023, me concentrei em **QA para BRQ**, utilizando principalmente C# para testes automatizados.
-- 🤖 **2024 is being the year of AI**, delving deeper into **Machine Learning** and honing my **Python** skills. / **2024 está sendo o ano do AI**, aprofundando conhecimentos em **Machine Learning** e melhorando minhas habilidades em **Python**.
-- 🚀 I am on the lookout for opportunities that allow me to contribute and grow in the field of **Artificial Intelligence**. / Estou em busca de oportunidades que me permitam contribuir e crescer na área de **Inteligência Artificial**.
+**System Analyst and Software Developer focused on C#/.NET, corporate applications, automation, and applied Artificial Intelligence.**
 
-## Connect with Me / Conecte-se comigo
-- LinkedIn: [Lucas Knust](https://www.linkedin.com/in/lucas-knust/)
-- E-mail: [lucasknust0605@gmail.com](mailto:lucasknust0605@gmail.com)
-- Discord: knustin.
+I currently work at **Polo Capital**, developing and maintaining business applications, system integrations, and process automation.
 
-## GitHub Statistics / Estatísticas do GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Knust06&theme=dark)
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knust06&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knust06&layout=compact&theme=radical)
-
-## Featured Projects / Projetos em Destaque
-- [TechChallengeFIAP](https://github.com/Knust06/TechChalengeFIAP1) - Technical challenge of the Machine Learning Engineering postgraduate course in the first phase, creating an API to retrieve data from an Embrapa website / Desafio técnico da pós-graduação de Machine Learning Engineering da primeira fase, criando uma API para pegar dados de um Site da Embrapa
-- [My Python Studies](https://github.com/Knust06/Python) - A compilation of my studies and experiments with Python, showing my continuous progress in the language. / Uma compilação dos meus estudos e experimentos com Python, mostrando meu progresso contínuo na linguagem.
+My professional background also includes software quality and test automation from my previous experience at **BRQ**, working on a project for **BTG Pactual**.
 
 ---
 
-> "The best way to predict the future is to invent it." – Alan Kay / "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
+## 👨‍💻 About Me
+
+- 💼 System Analyst at **Polo Capital**
+- 🎓 B.Sc. in **Computer Science** from Universidade Veiga de Almeida
+- 🤖 Postgraduate degree in **Machine Learning Engineering** from FIAP
+- 🧠 Currently pursuing a second postgraduate degree in **AI Agents** at FIAP
+- 🏗️ Interested in software architecture, APIs, automation, AI agents, RAG, and MLOps
+- 🌎 Based in Rio de Janeiro, Brazil
+
+My goal is to combine solid software engineering practices with Artificial Intelligence to build reliable applications, automate workflows, and integrate intelligent agents into corporate systems.
+
+---
+
+## 🛠️ Main Technologies
+
+### Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,azure" alt="C#, .NET, Visual Studio, Git, GitHub and Azure" />
+</p>
+
+- C# and .NET
+- REST APIs
+- DevExpress
+- WPF and Windows Forms
+- Windows Services
+- Object-Oriented Programming
+- Git and Azure DevOps
+- CI/CD
+
+### Artificial Intelligence and Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" alt="Python, FastAPI, PostgreSQL and Docker" />
+</p>
+
+- Python
+- Machine Learning
+- Large Language Models
+- AI Agents and multi-agent systems
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- NLP
+- MLOps
+- Pandas, NumPy, and scikit-learn
+
+---
+
+## 🚀 Featured Public Projects
+
+### 📊 Market Expectations Dashboard
+
+A C# and WPF desktop application that consumes public data from the Central Bank of Brazil and displays market expectations for economic indicators.
+
+**Main features:**
+
+- REST API integration
+- MVVM architecture
+- Asynchronous data retrieval
+- Economic indicator filters
+- Data visualization with OxyPlot
+- CSV export
+
+**Technologies:** C#, .NET, WPF, MVVM, REST API, OxyPlot
+
+[View repository](https://github.com/Knust06/ExpectativasMensaisPolo)
+
+---
+
+### 🍇 FIAP Tech Challenge — Embrapa API
+
+An academic project developed during my Machine Learning Engineering postgraduate course at FIAP.
+
+The project collects and exposes public agricultural data from Embrapa through an API, making the information easier to consume and integrate with other applications.
+
+**Technologies:** Python, API development, data collection, and data processing
+
+[View repository](https://github.com/Knust06/TechChalengeFIAP1)
+
+---
+
+## 🔬 What I Am Currently Exploring
+
+- AI agent architectures
+- Multi-agent systems
+- LLM integration with APIs and corporate applications
+- Retrieval-Augmented Generation
+- Context and memory management
+- Local and cloud-based AI models
+- Workflow and process automation
+- Software architecture for AI-enabled applications
+
+Some of my current projects remain private while they are under development or product validation.
+
+---
+
+## 📈 GitHub Statistics
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Knust06&show_icons=true&hide_border=true" alt="Lucas Knust's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knust06&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knust06&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/lucas-knust/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Knust-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucasknust0605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+> Building reliable software today while exploring how intelligent agents will transform the applications of tomorrow.
