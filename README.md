@@ -16,6 +16,7 @@ My professional background also includes software quality and test automation fr
 - 🧠 Currently pursuing a second postgraduate degree in **AI Agents** at FIAP
 - 🏗️ Interested in software architecture, APIs, automation, AI agents, RAG, and MLOps
 - 🌎 Based in Rio de Janeiro, Brazil
+- 🗣️ Portuguese and English
 
 My goal is to combine solid software engineering practices with Artificial Intelligence to build reliable applications, automate workflows, and integrate intelligent agents into corporate systems.
 
@@ -26,7 +27,13 @@ My goal is to combine solid software engineering practices with Artificial Intel
 ### Software Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,azure" alt="C#, .NET, Visual Studio, Git, GitHub and Azure" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square" alt="DevExpress" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square" alt="WPF" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 - C# and .NET
@@ -41,7 +48,13 @@ My goal is to combine solid software engineering practices with Artificial Intel
 ### Artificial Intelligence and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" alt="Python, FastAPI, PostgreSQL and Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/MLOps-111827?style=flat-square" alt="MLOps" />
 </p>
 
 - Python
@@ -85,7 +98,7 @@ The project collects and exposes public agricultural data from Embrapa through a
 
 **Technologies:** Python, API development, data collection, and data processing
 
-[View repository](https://github.com/Knust06/TechChalengeFIAP1)
+[View repository](https://github.com/Knust06/fiap-embrapa-api)
 
 ---
 
