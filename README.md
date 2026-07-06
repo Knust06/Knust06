@@ -30,6 +30,7 @@ My goal is to combine solid software engineering practices with Artificial Intel
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square" alt="DevExpress" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square" alt="WPF" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
@@ -38,6 +39,7 @@ My goal is to combine solid software engineering practices with Artificial Intel
 
 - C# and .NET
 - REST APIs
+- SQL Server
 - DevExpress
 - WPF and Windows Forms
 - Windows Services
@@ -50,7 +52,6 @@ My goal is to combine solid software engineering practices with Artificial Intel
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square" alt="AI Agents" />
   <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
