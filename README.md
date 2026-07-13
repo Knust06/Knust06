@@ -55,7 +55,7 @@ An academic repository containing independent challenge stages developed during 
 
 ### Bitcoin Price Predictor Web
 
-A personal Next.js and TypeScript frontend for exploring historical asset prices and consuming the Bitcoin prediction API developed during the FIAP project.
+A personal and academic Next.js and TypeScript frontend for exploring historical asset prices and consuming the experimental Bitcoin prediction API developed during the FIAP project.
 
 [View repository](https://github.com/Knust06/bitcoin-predictor-web)
 
