@@ -1,37 +1,71 @@
 # Lucas Knust
 
-**System Analyst @ Polo Capital | C#/.NET | Moving into AI Engineering: LLMs, RAG & AI Agents**
+**System Analyst | C#/.NET | REST APIs & Automation | Applied AI**
 
-🇧🇷 [Leia em português](README.pt-BR.md)
+I design, maintain, and integrate business applications, with a focus on reliable software, process automation, and practical uses of Artificial Intelligence.
 
-I build and integrate business applications in C#/.NET and I'm focused on bringing LLMs, RAG, and AI agents into reliable, production-minded software.
+> **Repository scope:** everything published on this GitHub account is a personal or academic project. Professional source code is maintained in private Azure Repos and is not mirrored here.
 
-> **Repository scope:** everything published here is a personal or academic project. Professional source code lives in private Azure Repos and is not mirrored here.
-
-## Profile
+## Professional Profile
 
 - System Analyst at **Polo Capital**
-- B.Sc. in **Computer Science**, Universidade Veiga de Almeida
-- Postgraduate degree in **Machine Learning Engineering**, FIAP (completed)
-- Postgraduate degree in **AI Agents**, FIAP (in progress)
-- Previously: software quality and test automation at **BRQ**, on a project for **BTG Pactual**
-- Rio de Janeiro, Brazil
+- B.Sc. in **Computer Science** from Universidade Veiga de Almeida
+- Postgraduate degree in **Machine Learning Engineering** from FIAP
+- Currently pursuing a postgraduate degree in **AI Agents** at FIAP
+- Based in Rio de Janeiro, Brazil
 
-## Stack
+My previous experience includes software quality and test automation at **BRQ**, working on a project for **BTG Pactual**.
 
-- **AI & data:** Python, FastAPI, Machine Learning, LLMs, AI agents, RAG, MLOps, Docker
-- **Business software:** C#, .NET, WPF, Windows Forms, Windows Services, DevExpress, SQL Server
-- **Integration & delivery:** REST APIs, Git, Azure DevOps, CI/CD, process automation
+## Core Stack
+
+**Business software**
+
+C#, .NET, WPF, Windows Forms, Windows Services, DevExpress, SQL Server
+
+**Integration and delivery**
+
+REST APIs, Git, Azure DevOps, Azure Repos, CI/CD, process automation
+
+**Applied AI and data**
+
+Python, FastAPI, Machine Learning, LLMs, AI agents, RAG, MLOps, Docker
 
 ## Selected Public Projects
 
-- [**FIAP ML Engineering Tech Challenges**](https://github.com/Knust06/fiap-ml-engineering-tech-challenges): Embrapa viticulture data API (FastAPI, web scraping) and a Bitcoin price-prediction API (TensorFlow/Keras LSTM).
-- [**Bitcoin Price Predictor Web**](https://github.com/Knust06/bitcoin-predictor-web): Next.js and TypeScript frontend for the experimental prediction API.
-- [**BCB Market Expectations Dashboard**](https://github.com/Knust06/bcb-market-expectations-wpf): .NET 8 WPF app (MVVM, async REST, OxyPlot charts, CSV export) for Central Bank of Brazil IPCA, IGP-M, and Selic expectations.
+### BCB Market Expectations Dashboard
+
+A personal C#/.NET 8 and WPF application that consumes public data from the Central Bank of Brazil and presents market expectations for IPCA, IGP-M, and Selic.
+
+- MVVM architecture
+- Asynchronous REST API integration
+- Date and indicator filters
+- Charts with OxyPlot
+- CSV export
+
+[View repository](https://github.com/Knust06/bcb-market-expectations-wpf)
+
+### FIAP Machine Learning Engineering — Tech Challenges
+
+An academic repository containing independent challenge stages developed during the FIAP postgraduate program:
+
+- an Embrapa viticulture data API built with FastAPI and web scraping;
+- a Bitcoin price-prediction API using FastAPI, yfinance, TensorFlow/Keras, and an LSTM model.
+
+[View repository](https://github.com/Knust06/fiap-ml-engineering-tech-challenges)
+
+### Bitcoin Price Predictor Web
+
+A personal and academic Next.js and TypeScript frontend for exploring historical asset prices and consuming the experimental Bitcoin prediction API developed during the FIAP project.
+
+[View repository](https://github.com/Knust06/bitcoin-predictor-web)
 
 ## Current Focus
 
-AI agents and multi-agent architectures · RAG and context management · LLM integration with APIs and business systems · architecture for AI-enabled software
+- AI agents and multi-agent architectures
+- Retrieval-Augmented Generation and context management
+- LLM integration with APIs and business applications
+- Software architecture for AI-enabled systems
+- Reliable workflow and process automation
 
 ## Contact
 
